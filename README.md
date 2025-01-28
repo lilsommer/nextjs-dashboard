@@ -4,5 +4,3 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
-Run "pnpm i" to install project's packages
-Run "pnpm dev" to start the server

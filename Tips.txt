@@ -1,0 +1,2 @@
+Run "pnpm i" to install project's packages
+Run "pnpm dev" to start the server
